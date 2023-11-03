@@ -6,7 +6,7 @@
 
   
   
-<h2>🧐 FEATURES</h2>
+<h2> FEATURES</h2>
 
 Here're some of the project's best features:
 
